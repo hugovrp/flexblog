@@ -1,4 +1,4 @@
-# 🟦 FlexBlog
+# ✍️ FlexBlog
 
 Projeto criado durante o curso de **CSS Flexbox** da [Origamid](https://www.origamid.com/).  
 O site simula um blog com layout fluido e responsivo utilizando exclusivamente Flexbox.
